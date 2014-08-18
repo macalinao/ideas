@@ -6,6 +6,7 @@ Random ideas or things that I can work on when I'm bored.
 ## Useful
 * A Yeoman generator for Angular that scaffolds a working route like `rails scaffold`. Should use Preston.
 * Ebay sniper that you give a budget (say, $20/month) and it will randomly buy crap and mail it to you
+* Notifier thing that is Yo but solely for notifications
 
 ### Probably can't do
 * Javascript DAW/Social Network
