@@ -10,6 +10,7 @@ Random ideas or things that I can work on when I'm bored.
 ### Probably can't do
 * Javascript DAW/Social Network
 * Rewrite Bloopsaphone for Node
+* Altcoin trading bot -- probably not worth the returns I'll get
 
 ## Useless
 * sakit.io - Something that tells you if you're sick, in real time!
