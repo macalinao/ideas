@@ -18,3 +18,4 @@ Random ideas or things that I can work on when I'm bored.
 ## Knowledge
 * Learn Clojure or some kind of functional language
 * Write all of the algorithms and data structures possible and turn them into 1000 unmaintained NPM packages
+* Learn Rails
