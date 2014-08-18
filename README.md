@@ -22,3 +22,4 @@ Random ideas or things that I can work on when I'm bored.
 * Write all of the algorithms and data structures possible and turn them into 1000 unmaintained NPM packages
 * Learn Rails
 * Buy a Mac/Intel and learn iOS!!!
+* Learn Docker
