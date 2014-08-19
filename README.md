@@ -9,6 +9,7 @@ Random ideas or things that I can work on when I'm bored.
 * Notifier thing that is Yo but solely for notifications
 * Similar music finder based on chord progression, amount of bass, etc. Each song will have some kind of fingerprint that can be compared with other songs.
 * Similar music finder based on what others listened to -- requires a data source
+* Dash clone that uses Dox
 
 ### Probably can't do
 * Javascript DAW/Social Network
