@@ -13,6 +13,7 @@ Random ideas or things that I can work on when I'm bored.
 * hacker.json - A subset of JSON resume built for creating a hacker directory. Checks GitHub, a personal website, and a directory for presence of this hacker.json file.
 * rendezvous -- an app that lets you see where other people are before meeting
 * AutoDJ -- automatically mix songs
+* Something where you can order to-go on your phone and pay on it as well
 
 ### Probably can't do
 * Javascript DAW/Social Network
