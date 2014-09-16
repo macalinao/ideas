@@ -14,6 +14,7 @@ Random ideas or things that I can work on when I'm bored.
 * rendezvous -- an app that lets you see where other people are before meeting
 * AutoDJ -- automatically mix songs
 * Something where you can order to-go on your phone and pay on it as well
+* A theremin-like instrument using galileo that is easy to learn.
 
 ### Probably can't do
 * Javascript DAW/Social Network
